@@ -34,6 +34,8 @@
 
 ## Assembly 
 
+- [assembly_chess](https://github.com/xu-ji/assembly_chess) - 
+- [raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## C 
@@ -47,6 +49,7 @@
 
 ## C# # 
 
+- [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [LiteDB.Studio](https://github.com/mbdavid/LiteDB.Studio) - A GUI tool for viewing and editing documents for LiteDB v5
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
@@ -106,6 +109,7 @@
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+- [py4web](https://github.com/web2py/py4web) - 
 
 ## Haskell 
 
@@ -120,7 +124,7 @@
 
 ## Java 
 
-- [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, IRC and many other useful features.
+- [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
@@ -154,7 +158,6 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [streamsheets](https://github.com/cedalo/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
-- [py4web](https://github.com/web2py/py4web) - 
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
@@ -213,6 +216,8 @@
 
 ## Python 
 
+- [vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
+- [deployer_k8s](https://github.com/paoloalba/deployer_k8s) - Programmatic yaml file generator for K8s resources.
 - [cookietemple](https://github.com/cookiejar/cookietemple) - A collection of best practice cookiecutter templates for all domains and languages with extensive Github support
 - [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
