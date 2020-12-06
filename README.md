@@ -24,6 +24,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
   - [Red](#red)
@@ -49,6 +50,7 @@
 
 ## C# # 
 
+- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
 - [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [LiteDB.Studio](https://github.com/mbdavid/LiteDB.Studio) - A GUI tool for viewing and editing documents for LiteDB v5
@@ -57,6 +59,7 @@
 
 ## C++ 
 
+- [fluxengine](https://github.com/davidgiven/fluxengine) - PSOC5 floppy disk imaging interface
 - [XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [mandelbulber2](https://github.com/buddhi1980/mandelbulber2) - Official repository for Mandelbulber v2
 - [libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
@@ -195,6 +198,7 @@
 
 ## Others 
 
+- [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [little-aspnetcore-book](https://github.com/nbarbettini/little-aspnetcore-book) - The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
@@ -214,8 +218,13 @@
 
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 
+## PowerShell 
+
+- [blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
+
 ## Python 
 
+- [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [deployer_k8s](https://github.com/paoloalba/deployer_k8s) - Programmatic yaml file generator for K8s resources.
 - [cookietemple](https://github.com/cookiejar/cookietemple) - A collection of best practice cookiecutter templates for all domains and languages with extensive Github support
