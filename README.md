@@ -42,7 +42,7 @@
 ## C 
 
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
-- [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V
+- [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [pix](https://github.com/linuxmint/pix) - Image management application
 - [ESP32_CAMERA_QR](https://github.com/donny681/ESP32_CAMERA_QR) - 
@@ -83,6 +83,7 @@
 
 ## Go 
 
+- [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -109,6 +110,8 @@
 
 ## HTML 
 
+- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -145,6 +148,7 @@
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [kiwix-js](https://github.com/kiwix/kiwix-js) - Full portable & lightweight ZIM reader in Javascript
@@ -177,6 +181,7 @@
 
 ## Jupyter Notebook 
 
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -198,6 +203,7 @@
 
 ## Others 
 
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [little-aspnetcore-book](https://github.com/nbarbettini/little-aspnetcore-book) - The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -224,6 +230,11 @@
 
 ## Python 
 
+- [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
+- [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
+- [KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
+- [buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
+- [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [deployer_k8s](https://github.com/paoloalba/deployer_k8s) - Programmatic yaml file generator for K8s resources.
@@ -243,7 +254,6 @@
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
