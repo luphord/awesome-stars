@@ -41,6 +41,7 @@
 
 ## C 
 
+- [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode executable containers
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -110,6 +111,7 @@
 
 ## HTML 
 
+- [base.html](https://github.com/sesh/base.html) - The absolute minimum base.html template to get your started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
@@ -148,7 +150,6 @@
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [kiwix-js](https://github.com/kiwix/kiwix-js) - Full portable & lightweight ZIM reader in Javascript
@@ -172,6 +173,8 @@
 
 ## Julia 
 
+- [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) - Simple drawings using vector graphics; Cairo "for tourists!"
+- [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [Miletus.jl](https://github.com/JuliaComputing/Miletus.jl) - Writing financial contracts in Julia
 - [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) - A differential eDSL that can run faster than light and go back to the past.
@@ -218,6 +221,7 @@
 
 ## PHP 
 
+- [moode](https://github.com/moode-player/moode) - Sources and configs
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
 ## PLpgSQL 
@@ -230,6 +234,7 @@
 
 ## Python 
 
+- [ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
 - [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
@@ -250,10 +255,11 @@
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [BrachioGraph](https://github.com/evildmp/BrachioGraph) - BrachioGraph is an ultra-cheap (total cost of materials: €14) plotter that can be built with minimal skills.
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
