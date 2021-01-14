@@ -88,7 +88,7 @@
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, realtime vector search engine that allows you to bring your machine learning models to scale
+- [weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine built to scale your machine learning models.
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -184,6 +184,7 @@
 
 ## Jupyter Notebook 
 
+- [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
@@ -198,6 +199,7 @@
 
 ## Kotlin 
 
+- [android](https://github.com/etesync/android) - EteSync - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars and tasks.
 - [kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 
 ## Makefile 
@@ -206,6 +208,7 @@
 
 ## Others 
 
+- [providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [little-aspnetcore-book](https://github.com/nbarbettini/little-aspnetcore-book) - The Little ASP.NET Core Book, a friendly introduction to web programming and ASP.NET Core 2.0
@@ -221,6 +224,7 @@
 
 ## PHP 
 
+- [Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [moode](https://github.com/moode-player/moode) - Sources and configs
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
@@ -234,6 +238,10 @@
 
 ## Python 
 
+- [Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
+- [etesync-dav](https://github.com/etesync/etesync-dav) - This is a CalDAV and CardDAV adapter for EteSync
+- [server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
+- [ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
 - [ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
 - [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
@@ -357,6 +365,7 @@
 
 ## TypeScript 
 
+- [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
