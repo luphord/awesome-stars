@@ -29,6 +29,7 @@
   - [R](#r)
   - [Red](#red)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -41,6 +42,8 @@
 
 ## C 
 
+- [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
+- [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
 - [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode executable containers
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
@@ -60,6 +63,7 @@
 
 ## C++ 
 
+- [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [fluxengine](https://github.com/davidgiven/fluxengine) - PSOC5 floppy disk imaging interface
 - [XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [mandelbulber2](https://github.com/buddhi1980/mandelbulber2) - Official repository for Mandelbulber v2
@@ -132,6 +136,7 @@
 
 ## Java 
 
+- [moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -141,7 +146,7 @@
 ## JavaScript 
 
 - [leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [arithmepad](https://github.com/luphord/arithmepad) - arithmepad is a JavaScript based web notebook than runs entirely in the browser
 - [dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) - Bootstrap components for Plotly Dash
@@ -164,7 +169,7 @@
 - [gaussian-analytics](https://github.com/luphord/gaussian-analytics) - JavaScript library for analytical pricings of financial derivatives under (log)normal distribution assumptions
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [streamsheets](https://github.com/cedalo/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
+- [streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -238,6 +243,9 @@
 
 ## Python 
 
+- [webapp-manager](https://github.com/linuxmint/webapp-manager) - 
+- [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
+- [PhotoCollage](https://github.com/adrienverge/PhotoCollage) - Graphical tool to make photo collage posters
 - [Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [etesync-dav](https://github.com/etesync/etesync-dav) - This is a CalDAV and CardDAV adapter for EteSync
 - [server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
@@ -355,6 +363,10 @@
 ## Rust 
 
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
+
+## Scala 
+
+- [facto](https://github.com/nymanjens/facto) - Family Accounting Tool
 
 ## Shell 
 
