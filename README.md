@@ -104,7 +104,7 @@
 - [orderbook](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang
 - [computer-networking-study](https://github.com/aos/computer-networking-study) - Learning computer networking through projects and readings
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
 - [webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -136,6 +136,7 @@
 
 ## Java 
 
+- [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 - [moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
@@ -243,6 +244,7 @@
 
 ## Python 
 
+- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [webapp-manager](https://github.com/linuxmint/webapp-manager) - 
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [PhotoCollage](https://github.com/adrienverge/PhotoCollage) - Graphical tool to make photo collage posters
