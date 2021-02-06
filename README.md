@@ -55,7 +55,7 @@
 ## C# # 
 
 - [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
-- [MobileBlazorBindings](https://github.com/xamarin/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
+- [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [LiteDB.Studio](https://github.com/mbdavid/LiteDB.Studio) - A GUI tool for viewing and editing documents for LiteDB v5
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
@@ -244,6 +244,9 @@
 
 ## Python 
 
+- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
+- [pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
+- [EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [webapp-manager](https://github.com/linuxmint/webapp-manager) - 
 - [kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
@@ -278,7 +281,7 @@
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
@@ -365,6 +368,7 @@
 ## Rust 
 
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
 ## Scala 
 
@@ -372,6 +376,7 @@
 
 ## Shell 
 
+- [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
@@ -382,7 +387,6 @@
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 
 ## Vue 
