@@ -42,9 +42,10 @@
 
 ## C 
 
+- [USBMIDI](https://github.com/BlokasLabs/USBMIDI) - USB MIDI library for Arduino.
 - [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
-- [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode executable containers
+- [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode containers
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -92,7 +93,7 @@
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine built to scale your machine learning models.
+- [weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -115,6 +116,7 @@
 
 ## HTML 
 
+- [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
 - [base.html](https://github.com/sesh/base.html) - The absolute minimum base.html template to get your started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
@@ -136,6 +138,7 @@
 
 ## Java 
 
+- [android-midisuite](https://github.com/philburk/android-midisuite) - Android MIDI test programs and examples.
 - [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 - [moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
@@ -146,6 +149,7 @@
 
 ## JavaScript 
 
+- [webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.
 - [leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -223,13 +227,14 @@
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
 - [msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications in Python (by @firmai)
-- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues and releases repository.
+- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases and discussions repository.
 - [plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [textadept-mirror](https://github.com/rgieseke/textadept-mirror) - Git mirror of Mitchell's Textadept editor
 - [beyond-jupyter](https://github.com/jgoerner/beyond-jupyter) - 🐍💻📊        All material from the PyCon.DE 2018 Talk "Beyond Jupyter Notebooks - Building your own data science platform with Python & Docker" (incl. Slides, Video, Udemy MOOC & other References)
 
 ## PHP 
 
+- [raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [moode](https://github.com/moode-player/moode) - Sources and configs
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -244,6 +249,12 @@
 
 ## Python 
 
+- [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
+- [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets.
+- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
 - [pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
 - [EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
@@ -376,6 +387,8 @@
 
 ## Shell 
 
+- [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
@@ -391,7 +404,7 @@
 
 ## Vue 
 
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
 ## License
