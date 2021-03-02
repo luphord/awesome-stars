@@ -31,6 +31,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -42,6 +43,8 @@
 
 ## C 
 
+- [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
 - [USBMIDI](https://github.com/BlokasLabs/USBMIDI) - USB MIDI library for Arduino.
 - [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
@@ -64,6 +67,7 @@
 
 ## C++ 
 
+- [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote-control OBS Studio through WebSockets
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [fluxengine](https://github.com/davidgiven/fluxengine) - PSOC5 floppy disk imaging interface
 - [XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
@@ -89,6 +93,8 @@
 
 ## Go 
 
+- [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -249,13 +255,15 @@
 
 ## Python 
 
+- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python / msgpack.org[Python]
+- [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI, coming soon to Google Fonts
+- [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
 - [EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -292,7 +300,7 @@
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
@@ -362,7 +370,7 @@
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [ironpython3](https://github.com/IronLanguages/ironpython3) - DO NOT USE. Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
+- [ironpython3](https://github.com/IronLanguages/ironpython3) - Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
 - [nelson_siegel_svensson](https://github.com/luphord/nelson_siegel_svensson) - Implementation of the Nelson-Siegel-Svensson interest rate curve model.
 - [imgwrench](https://github.com/luphord/imgwrench) - A highly opinionated image processor for the commandline.
 - [blanketdb](https://github.com/luphord/blanketdb) - A simple HTTP accessible database for IoT projects
@@ -378,6 +386,7 @@
 
 ## Rust 
 
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
@@ -394,6 +403,10 @@
 - [git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+
+## Svelte 
+
+- [obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## TypeScript 
 
