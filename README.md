@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
+  - [Forth](#forth)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -90,6 +91,10 @@
 - [dockerized-kiwix-server](https://github.com/jasiek/dockerized-kiwix-server) - Your own wikipedia server in a box.
 - [traefik-v2-configs](https://github.com/Mau5Machine/traefik-v2-configs) - This is some examples of traefik proxy configurations.
 - [caddy-docker](https://github.com/caddyserver/caddy-docker) - Source for the official Caddy v2 Docker Image
+
+## Forth 
+
+- [punyforth](https://github.com/zeroflag/punyforth) - Forth inspired programming language for the ESP8266
 
 ## Go 
 
@@ -255,7 +260,8 @@
 
 ## Python 
 
-- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python / msgpack.org[Python]
+- [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
+- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
