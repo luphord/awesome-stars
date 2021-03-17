@@ -44,8 +44,9 @@
 
 ## C 
 
+- [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
 - [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
 - [USBMIDI](https://github.com/BlokasLabs/USBMIDI) - USB MIDI library for Arduino.
 - [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
@@ -127,6 +128,7 @@
 
 ## HTML 
 
+- [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
 - [base.html](https://github.com/sesh/base.html) - The absolute minimum base.html template to get your started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
