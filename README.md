@@ -44,9 +44,10 @@
 
 ## C 
 
+- [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
 - [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
-- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter (and the most universal runtime)
+- [wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [USBMIDI](https://github.com/BlokasLabs/USBMIDI) - USB MIDI library for Arduino.
 - [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
@@ -196,6 +197,7 @@
 
 ## Julia 
 
+- [MeasureTheory.jl](https://github.com/cscherrer/MeasureTheory.jl) - 
 - [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) - Simple drawings using vector graphics; Cairo "for tourists!"
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
@@ -207,6 +209,7 @@
 
 ## Jupyter Notebook 
 
+- [Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) - 
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
@@ -239,7 +242,6 @@
 - [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
 - [msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
-- [financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning (FinML) tools and applications in Python (by @firmai)
 - [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases and discussions repository.
 - [plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [textadept-mirror](https://github.com/rgieseke/textadept-mirror) - Git mirror of Mitchell's Textadept editor
@@ -262,6 +264,7 @@
 
 ## Python 
 
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
@@ -356,6 +359,7 @@
 - [pycel](https://github.com/dgorissen/pycel) - A library for compiling excel spreadsheets to python code & visualizing them as a graph
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [pymux](https://github.com/prompt-toolkit/pymux) - A terminal multiplexer (like tmux) in Python
+- [financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
