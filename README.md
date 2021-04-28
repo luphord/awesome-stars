@@ -35,6 +35,7 @@
   - [Svelte](#svelte)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## Assembly 
 
@@ -44,6 +45,7 @@
 
 ## C 
 
+- [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - Same features of Pedalino™ in a compact form.
 - [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
 - [microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -61,6 +63,7 @@
 
 ## C# # 
 
+- [uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
 - [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
@@ -131,7 +134,7 @@
 
 - [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
-- [base.html](https://github.com/sesh/base.html) - The absolute minimum base.html template to get your started
+- [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project start
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
@@ -152,6 +155,7 @@
 
 ## Java 
 
+- [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
 - [android-midisuite](https://github.com/philburk/android-midisuite) - Android MIDI test programs and examples.
 - [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 - [moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
@@ -163,6 +167,9 @@
 
 ## JavaScript 
 
+- [app](https://github.com/statsim/app) - StatSim. Bayesian inference and statistical simulations in the browser
+- [webppl](https://github.com/probmods/webppl) - Probabilistic programming for the web
+- [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.
 - [leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -209,6 +216,8 @@
 
 ## Jupyter Notebook 
 
+- [Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
+- [pyndamics](https://github.com/bblais/pyndamics) - Python Numerical Dynamics Simulator
 - [Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) - 
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
@@ -264,10 +273,11 @@
 
 ## Python 
 
+- [snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
+- [pysd](https://github.com/JamesPHoughton/pysd) - System Dynamics Modeling in Python
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python
-- [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets.
@@ -398,7 +408,6 @@
 
 ## Rust 
 
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
@@ -408,6 +417,7 @@
 
 ## Shell 
 
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
@@ -422,6 +432,7 @@
 
 ## TypeScript 
 
+- [appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -430,6 +441,10 @@
 ## Vue 
 
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+## WebAssembly 
+
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 
 ## License
