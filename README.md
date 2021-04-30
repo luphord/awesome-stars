@@ -273,6 +273,8 @@
 
 ## Python 
 
+- [opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
+- [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
 - [pysd](https://github.com/JamesPHoughton/pysd) - System Dynamics Modeling in Python
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
