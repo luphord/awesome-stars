@@ -53,7 +53,7 @@
 - [USBMIDI](https://github.com/BlokasLabs/USBMIDI) - USB MIDI library for Arduino.
 - [gthumb](https://github.com/GNOME/gthumb) - Read-only mirror of https://gitlab.gnome.org/GNOME/gthumb
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
-- [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode containers
+- [cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote-control OBS Studio through WebSockets
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [fluxengine](https://github.com/davidgiven/fluxengine) - PSOC5 floppy disk imaging interface
@@ -103,6 +104,8 @@
 
 ## Go 
 
+- [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
@@ -193,7 +196,6 @@
 - [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
 - [gaussian-analytics](https://github.com/luphord/gaussian-analytics) - JavaScript library for analytical pricings of financial derivatives under (log)normal distribution assumptions
-- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
@@ -438,6 +440,7 @@
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 
 ## Vue 
