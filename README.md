@@ -32,10 +32,10 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Smalltalk](#smalltalk)
   - [Svelte](#svelte)
   - [TypeScript](#typescript)
   - [Vue](#vue)
-  - [WebAssembly](#webassembly)
 
 ## Assembly 
 
@@ -45,6 +45,7 @@
 
 ## C 
 
+- [crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
 - [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - Same features of Pedalino™ in a compact form.
 - [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
@@ -55,6 +56,7 @@
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
 - [cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
+- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [pix](https://github.com/linuxmint/pix) - Image management application
@@ -104,11 +106,12 @@
 
 ## Go 
 
-- [litestream](https://github.com/benbjohnson/litestream) - Streaming S3 replication for SQLite.
+- [litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+- [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -116,7 +119,6 @@
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
-- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
@@ -137,7 +139,7 @@
 
 - [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
-- [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project start
+- [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
@@ -170,6 +172,9 @@
 
 ## JavaScript 
 
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
+- [whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
+- [whiteboard](https://github.com/cracker0dks/whiteboard) - Lightweight collaborative Whiteboard / Sketchboard
 - [app](https://github.com/statsim/app) - StatSim. Bayesian inference and statistical simulations in the browser
 - [webppl](https://github.com/probmods/webppl) - Probabilistic programming for the web
 - [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
@@ -245,6 +250,7 @@
 
 ## Others 
 
+- [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
 - [providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -275,6 +281,7 @@
 
 ## Python 
 
+- [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
@@ -304,7 +311,6 @@
 - [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
 - [buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
-- [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [deployer_k8s](https://github.com/paoloalba/deployer_k8s) - Programmatic yaml file generator for K8s resources.
@@ -412,6 +418,7 @@
 
 ## Rust 
 
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
@@ -430,12 +437,17 @@
 - [caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker container for Caddy
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
+## Smalltalk 
+
+- [PolyMath](https://github.com/PolyMathOrg/PolyMath) - Scientific Computing with Pharo
+
 ## Svelte 
 
 - [obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
 ## TypeScript 
 
+- [jupyterlite](https://github.com/jtpio/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
@@ -445,11 +457,8 @@
 
 ## Vue 
 
+- [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-## WebAssembly 
-
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 
 
 ## License
