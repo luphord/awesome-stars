@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [solfege-samples](https://github.com/wcgbg/solfege-samples) - Solfege Soundfont (sf2) and Gigasample  (gig)
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote-control OBS Studio through WebSockets
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
@@ -106,6 +107,7 @@
 
 ## Go 
 
+- [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
@@ -137,11 +139,13 @@
 
 ## HTML 
 
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
 - [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
+- [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -172,6 +176,10 @@
 
 ## JavaScript 
 
+- [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [noVNC](https://github.com/novnc/noVNC) - VNC client web application
+- [solfege.ai](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
 - [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [whiteboard](https://github.com/cracker0dks/whiteboard) - Lightweight collaborative Whiteboard / Sketchboard
@@ -186,7 +194,6 @@
 - [dash-bootstrap-components](https://github.com/facultyai/dash-bootstrap-components) - Bootstrap components for Plotly Dash
 - [htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
-- [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -281,6 +288,7 @@
 
 ## Python 
 
+- [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
@@ -291,8 +299,8 @@
 - [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
-- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets.
-- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
@@ -332,7 +340,7 @@
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
 - [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
