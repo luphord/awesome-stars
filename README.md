@@ -45,6 +45,8 @@
 
 ## C 
 
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
 - [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - Same features of Pedalino™ in a compact form.
 - [aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -56,7 +58,6 @@
 - [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop) - The cinnamon-desktop library (and common settings schemas for the cinnamon desktop)
 - [cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
-- [askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [MaixPy](https://github.com/sipeed/MaixPy) - MicroPython for K210 RISC-V, let's play with edge AI easier
 - [cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [pix](https://github.com/linuxmint/pix) - Image management application
@@ -65,6 +66,7 @@
 
 ## C# # 
 
+- [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
 - [uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
 - [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
@@ -107,6 +109,8 @@
 
 ## Go 
 
+- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
+- [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -121,6 +125,7 @@
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
@@ -257,6 +262,8 @@
 
 ## Others 
 
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
 - [providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -266,7 +273,7 @@
 - [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
 - [msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
-- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases and discussions repository.
+- [jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [textadept-mirror](https://github.com/rgieseke/textadept-mirror) - Git mirror of Mitchell's Textadept editor
 - [beyond-jupyter](https://github.com/jgoerner/beyond-jupyter) - 🐍💻📊        All material from the PyCon.DE 2018 Talk "Beyond Jupyter Notebooks - Building your own data science platform with Python & Docker" (incl. Slides, Video, Udemy MOOC & other References)
@@ -288,6 +295,7 @@
 
 ## Python 
 
+- [lfm](https://github.com/langner/lfm) - 
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
@@ -296,7 +304,7 @@
 - [pysd](https://github.com/JamesPHoughton/pysd) - System Dynamics Modeling in Python
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
-- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack implementation for Python
+- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack library for Python
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
@@ -436,6 +444,7 @@
 
 ## Shell 
 
+- [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -455,7 +464,7 @@
 
 ## TypeScript 
 
-- [jupyterlite](https://github.com/jtpio/jupyterlite) - Wasm powered Jupyter running in the browser 💡
+- [jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
