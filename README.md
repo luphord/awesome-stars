@@ -235,7 +235,6 @@
 
 ## Jupyter Notebook 
 
-- [Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
 - [pyndamics](https://github.com/bblais/pyndamics) - Python Numerical Dynamics Simulator
 - [Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) - 
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
@@ -295,12 +294,15 @@
 
 ## Python 
 
+- [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
 - [lfm](https://github.com/langner/lfm) - 
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
+- [jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [snopher](https://github.com/fluhus/snopher) - A practical guide on calling Go from Python using ctypes.
+- [Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
 - [pysd](https://github.com/JamesPHoughton/pysd) - System Dynamics Modeling in Python
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -308,7 +310,7 @@
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
-- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
@@ -464,7 +466,6 @@
 
 ## TypeScript 
 
-- [jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
@@ -474,7 +475,7 @@
 
 ## Vue 
 
-- [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative.
+- [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
