@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [solfege-samples](https://github.com/wcgbg/solfege-samples) - Solfege Soundfont (sf2) and Gigasample  (gig)
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote-control OBS Studio through WebSockets
@@ -294,6 +295,8 @@
 
 ## Python 
 
+- [SeqBox](https://github.com/MarcoPon/SeqBox) - A single file container/archive that can be reconstructed even after total loss of file system structures
+- [par2deep](https://github.com/brenthuisman/par2deep) - Produce, verify and repair par2 files recursively.
 - [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
 - [lfm](https://github.com/langner/lfm) - 
 - [webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
