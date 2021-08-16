@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [solfege-samples](https://github.com/wcgbg/solfege-samples) - Solfege Soundfont (sf2) and Gigasample  (gig)
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -110,6 +111,7 @@
 
 ## Go 
 
+- [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -182,6 +184,7 @@
 
 ## JavaScript 
 
+- [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -295,6 +298,7 @@
 
 ## Python 
 
+- [textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [SeqBox](https://github.com/MarcoPon/SeqBox) - A single file container/archive that can be reconstructed even after total loss of file system structures
 - [par2deep](https://github.com/brenthuisman/par2deep) - Produce, verify and repair par2 files recursively.
 - [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
@@ -335,7 +339,7 @@
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [vpype](https://github.com/abey79/vpype) - The Swiss-Army-knife command-line tool for plotter vector graphics.
 - [deployer_k8s](https://github.com/paoloalba/deployer_k8s) - Programmatic yaml file generator for K8s resources.
-- [cookietemple](https://github.com/cookiejar/cookietemple) - A collection of best practice cookiecutter templates for all domains and languages with extensive Github support
+- [cookietemple](https://github.com/cookiejar/cookietemple) - A collection of best practice cookiecutter templates for all domains and languages with extensive Github support ⛺
 - [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
 - [kord](https://github.com/synestematic/kord) - a music theory development framework in python
