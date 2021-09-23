@@ -29,6 +29,7 @@
   - [Python](#python)
   - [R](#r)
   - [Red](#red)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -45,6 +46,7 @@
 
 ## C 
 
+- [wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
@@ -172,7 +174,8 @@
 
 ## Java 
 
-- [CompreFace](https://github.com/exadel-inc/CompreFace) - Free and open-source face recognition system from Exadel
+- [simm-lib](https://github.com/AcadiaSoft/simm-lib) - 
+- [CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
 - [android-midisuite](https://github.com/philburk/android-midisuite) - Android MIDI test programs and examples.
 - [bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 - [moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
@@ -184,6 +187,7 @@
 
 ## JavaScript 
 
+- [fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -207,7 +211,7 @@
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
-- [kiwix-js](https://github.com/kiwix/kiwix-js) - Full portable & lightweight ZIM reader in Javascript
+- [kiwix-js](https://github.com/kiwix/kiwix-js) - Fully portable & lightweight ZIM reader in Javascript
 - [danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [sketchpad](https://github.com/yiom/sketchpad) - A simple sketchpad library
@@ -268,6 +272,7 @@
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -298,6 +303,9 @@
 
 ## Python 
 
+- [peripage-a6-control](https://github.com/linglingltd/peripage-a6-control) - Python module to control the PeriPage A6-printer
+- [ppa6-python](https://github.com/bitrate16/ppa6-python) - Python module and documentation for direct printing on Peripage A6 / A6+ thermal printer via bluetooth
+- [peripage-A6-bluetooth](https://github.com/eliasweingaertner/peripage-A6-bluetooth) - Directly printing on a Peripage A6 thermal printer via Bluetooth
 - [textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [SeqBox](https://github.com/MarcoPon/SeqBox) - A single file container/archive that can be reconstructed even after total loss of file system structures
 - [par2deep](https://github.com/brenthuisman/par2deep) - Produce, verify and repair par2 files recursively.
@@ -413,7 +421,7 @@
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt) - A 'resilient' asynchronous MQTT driver. Plus a means of using an ESP8266 to bring MQTT to non-networked targets.
 - [rshell](https://github.com/dhylands/rshell) - Remote Shell for MicroPython
-- [scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [dhash](https://github.com/benhoyt/dhash) - Python library to calculate the difference hash (perceptual hash) for a given image, useful for detecting duplicates
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -441,6 +449,10 @@
 
 - [red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 
+## Ruby 
+
+- [self-hosted-docker-server-templates](https://github.com/norweeg/self-hosted-docker-server-templates) - Just some templates to get someone started with hosting various servers in Docker
+
 ## Rust 
 
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -454,7 +466,6 @@
 ## Shell 
 
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
