@@ -70,6 +70,7 @@
 
 - [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
 - [uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
+- [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
 - [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
@@ -113,6 +114,7 @@
 
 ## Go 
 
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -138,7 +140,7 @@
 - [orderbook](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang
 - [computer-networking-study](https://github.com/aos/computer-networking-study) - Learning computer networking through projects and readings
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database
+- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
 - [webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -150,7 +152,6 @@
 ## HTML 
 
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
-- [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
 - [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project started
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -218,19 +219,19 @@
 - [TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
-- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
 - [gaussian-analytics](https://github.com/luphord/gaussian-analytics) - JavaScript library for analytical pricings of financial derivatives under (log)normal distribution assumptions
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
-- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 
 ## Julia 
 
+- [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
 - [MeasureTheory.jl](https://github.com/cscherrer/MeasureTheory.jl) - 
 - [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) - Simple drawings using vector graphics; Cairo "for tourists!"
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session
@@ -303,6 +304,7 @@
 
 ## Python 
 
+- [btrfs-snapshots-diff](https://github.com/sysnux/btrfs-snapshots-diff) - Decode Btrfs send stream
 - [peripage-a6-control](https://github.com/linglingltd/peripage-a6-control) - Python module to control the PeriPage A6-printer
 - [ppa6-python](https://github.com/bitrate16/ppa6-python) - Python module and documentation for direct printing on Peripage A6 / A6+ thermal printer via bluetooth
 - [peripage-A6-bluetooth](https://github.com/eliasweingaertner/peripage-A6-bluetooth) - Directly printing on a Peripage A6 thermal printer via Bluetooth
@@ -325,7 +327,7 @@
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
-- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
@@ -451,6 +453,7 @@
 
 ## Ruby 
 
+- [geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 - [self-hosted-docker-server-templates](https://github.com/norweeg/self-hosted-docker-server-templates) - Just some templates to get someone started with hosting various servers in Docker
 
 ## Rust 
@@ -484,16 +487,17 @@
 
 ## TypeScript 
 
-- [appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 
 ## Vue 
 
-- [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
