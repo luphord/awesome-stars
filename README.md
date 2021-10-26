@@ -188,6 +188,7 @@
 
 ## JavaScript 
 
+- [budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
 - [fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -304,6 +305,7 @@
 
 ## Python 
 
+- [problog](https://github.com/ML-KULeuven/problog) - ProbLog is a Probabilistic Logic Programming Language for logic programs with probabilities.
 - [btrfs-snapshots-diff](https://github.com/sysnux/btrfs-snapshots-diff) - Decode Btrfs send stream
 - [peripage-a6-control](https://github.com/linglingltd/peripage-a6-control) - Python module to control the PeriPage A6-printer
 - [ppa6-python](https://github.com/bitrate16/ppa6-python) - Python module and documentation for direct printing on Peripage A6 / A6+ thermal printer via bluetooth
@@ -460,7 +462,7 @@
 
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## Scala 
 
@@ -468,6 +470,7 @@
 
 ## Shell 
 
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -487,6 +490,7 @@
 
 ## TypeScript 
 
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
