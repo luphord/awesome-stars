@@ -35,6 +35,7 @@
   - [Shell](#shell)
   - [Smalltalk](#smalltalk)
   - [Svelte](#svelte)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -124,6 +125,7 @@
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)
 - [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+- [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -158,6 +160,7 @@
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
+- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
 - [py4web](https://github.com/web2py/py4web) - 
@@ -225,7 +228,6 @@
 - [gaussian-analytics](https://github.com/luphord/gaussian-analytics) - JavaScript library for analytical pricings of financial derivatives under (log)normal distribution assumptions
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
-- [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
@@ -233,7 +235,7 @@
 ## Julia 
 
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
-- [MeasureTheory.jl](https://github.com/cscherrer/MeasureTheory.jl) - 
+- [MeasureTheory.jl](https://github.com/cscherrer/MeasureTheory.jl) - "Distributions" that might not add to one.
 - [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) - Simple drawings using vector graphics; Cairo "for tourists!"
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
@@ -271,6 +273,7 @@
 
 ## Others 
 
+- [recipes](https://github.com/cooklang/recipes) - Community created recipes
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
@@ -345,7 +348,6 @@
 - [ihatemoney](https://github.com/spiral-project/ihatemoney) - A simple shared budget manager web application
 - [ice](https://github.com/peppermintos/ice) - Tool to create Chromium/Chrome/Firefox/Vivaldi SSBs in Peppermint OS.
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
-- [jprq](https://github.com/azimjohn/jprq) - Get Your Localhost Online - Ngrok Alternative
 - [KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/KivyMD https://habr.com/ru/users/kivymd https://stackoverflow.com/tags/kivymd
 - [buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
 - [ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
@@ -488,14 +490,18 @@
 
 - [obs-web](https://github.com/Niek/obs-web) - OBS-web - the easiest way to control OBS remotely
 
+## Swift 
+
+- [CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
+
 ## TypeScript 
 
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 
