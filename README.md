@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Dockerfile](#dockerfile)
   - [Forth](#forth)
   - [Go](#go)
@@ -85,7 +86,7 @@
 - [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
 - [solfege-samples](https://github.com/wcgbg/solfege-samples) - Solfege Soundfont (sf2) and Gigasample  (gig)
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote-control OBS Studio through WebSockets
+- [obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [digikam](https://github.com/KDE/digikam) - digiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
 - [fluxengine](https://github.com/davidgiven/fluxengine) - PSOC5 floppy disk imaging interface
 - [XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
@@ -103,6 +104,10 @@
 
 - [codoodler](https://github.com/pubnub/codoodler) - Doodle with strangers on InterWeb!
 
+## Clojure 
+
+- [logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+
 ## Dockerfile 
 
 - [dockerized-kiwix-server](https://github.com/jasiek/dockerized-kiwix-server) - Your own wikipedia server in a box.
@@ -115,6 +120,9 @@
 
 ## Go 
 
+- [fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
+- [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -134,7 +142,7 @@
 - [git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
-- [askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
@@ -191,7 +199,8 @@
 
 ## JavaScript 
 
-- [budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
+- [WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+- [budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -217,7 +226,7 @@
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [kiwix-js](https://github.com/kiwix/kiwix-js) - Fully portable & lightweight ZIM reader in Javascript
-- [danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [sketchpad](https://github.com/yiom/sketchpad) - A simple sketchpad library
 - [TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
@@ -365,7 +374,6 @@
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [BrachioGraph](https://github.com/evildmp/BrachioGraph) - BrachioGraph is an ultra-cheap (total cost of materials: €14) plotter that can be built with minimal skills.
 - [airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
@@ -472,6 +480,7 @@
 
 ## Shell 
 
+- [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
@@ -497,9 +506,10 @@
 ## TypeScript 
 
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
-- [appsmith](https://github.com/appsmithorg/appsmith) - Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript.
+- [appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -507,7 +517,7 @@
 
 ## Vue 
 
-- [nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
