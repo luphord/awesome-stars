@@ -6,6 +6,7 @@
 ## Contents
 
   - [Assembly](#assembly)
+  - [BitBake](#bitbake)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -19,6 +20,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -46,8 +48,13 @@
 - [raspberrypi](https://github.com/dwelch67/raspberrypi) - Raspberry Pi ARM based bare metal examples
 - [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
+## BitBake 
+
+- [meta-balena](https://github.com/balena-os/meta-balena) - A collection of Yocto layers used to build balenaOS images
+
 ## C 
 
+- [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -161,6 +168,7 @@
 
 ## HTML 
 
+- [chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [webaudiofontdata](https://github.com/surikov/webaudiofontdata) - 
 - [base.html](https://github.com/sesh/base.html) - A minimal base.html file to get your project started
@@ -241,6 +249,10 @@
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 
+## Jinja 
+
+- [moodlebox](https://github.com/moodlebox/moodlebox) - A Moodle server and Wi-Fi router on Raspberry Pi 3 and 4
+
 ## Julia 
 
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
@@ -278,6 +290,7 @@
 
 ## Makefile 
 
+- [berryboot](https://github.com/maxnet/berryboot) - Berryboot -- Boot menu / OS installer
 - [python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
 
 ## Others 
@@ -304,7 +317,7 @@
 
 - [raspap-webgui](https://github.com/RaspAP/raspap-webgui) - Simple wireless AP setup & management for Debian-based devices
 - [Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
-- [moode](https://github.com/moode-player/moode) - Sources and configs
+- [moode](https://github.com/moode-player/moode) - moOde sources and configs
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
 ## PLpgSQL 
@@ -480,11 +493,14 @@
 
 ## Shell 
 
+- [pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [pimod](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file
+- [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [CHIPDocker](https://github.com/hkuchampudi/CHIPDocker) - Install C.H.I.P. SDK in a Docker container
-- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
@@ -513,7 +529,7 @@
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## Vue 
 
