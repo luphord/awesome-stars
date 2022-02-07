@@ -77,6 +77,7 @@
 
 ## C# # 
 
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
 - [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
 - [uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
@@ -85,12 +86,13 @@
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 - [LiteDB.Studio](https://github.com/mbdavid/LiteDB.Studio) - A GUI tool for viewing and editing documents for LiteDB v5
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
-- [Chromely](https://github.com/chromelyapps/Chromely) - Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
+- [Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
 
 ## C++ 
 
+- [Adafruit_Floppy](https://github.com/adafruit/Adafruit_Floppy) - 
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [par2cmdline](https://github.com/Parchive/par2cmdline) - fork of the original par2cmdline CVS repo
+- [par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2
 - [solfege-samples](https://github.com/wcgbg/solfege-samples) - Solfege Soundfont (sf2) and Gigasample  (gig)
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
@@ -127,6 +129,7 @@
 
 ## Go 
 
+- [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
@@ -157,7 +160,7 @@
 - [orderbook](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang
 - [computer-networking-study](https://github.com/aos/computer-networking-study) - Learning computer networking through projects and readings
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [immudb](https://github.com/codenotary/immudb) - immudb - world’s fastest immutable database, built on a zero trust model
+- [immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -178,7 +181,7 @@
 - [intro-to-visidata](https://github.com/jsvine/intro-to-visidata) - Source files for "An Introduction to VisiData"
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
-- [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+- [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
 - [py4web](https://github.com/web2py/py4web) - 
 
 ## Haskell 
@@ -207,6 +210,7 @@
 
 ## JavaScript 
 
+- [drakonhub](https://github.com/stepan-mitkin/drakonhub) - The source code for DrakonHub.com
 - [WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
@@ -234,7 +238,6 @@
 - [schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [kiwix-js](https://github.com/kiwix/kiwix-js) - Fully portable & lightweight ZIM reader in Javascript
-- [danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [sketchpad](https://github.com/yiom/sketchpad) - A simple sketchpad library
 - [TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
@@ -255,6 +258,7 @@
 
 ## Julia 
 
+- [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [18S191](https://github.com/mitmath/18S191) - Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:
 - [MeasureTheory.jl](https://github.com/cscherrer/MeasureTheory.jl) - "Distributions" that might not add to one.
 - [Luxor.jl](https://github.com/JuliaGraphics/Luxor.jl) - Simple drawings using vector graphics; Cairo "for tourists!"
@@ -268,6 +272,7 @@
 
 ## Jupyter Notebook 
 
+- [minecraft-world-generation](https://github.com/BilHim/minecraft-world-generation) - Replicating Minecraft World Generation in Python
 - [pyndamics](https://github.com/bblais/pyndamics) - Python Numerical Dynamics Simulator
 - [Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) - 
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
@@ -276,7 +281,6 @@
 - [Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [longstaff_schwartz](https://github.com/luphord/longstaff_schwartz) - A Python implementation of the Longstaff-Schwartz linear regression algorithm for the evaluation of call rights an American options.
-- [base](https://github.com/reinfeldp/base) - base
 - [scribble](https://github.com/KonradUdoHannes/scribble) - Reposiory for the exchange of a variety of different and unrelated ideas
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [Machine_Learning_and_Equity_Index_Returns](https://github.com/paveles/Machine_Learning_and_Equity_Index_Returns) - Machine Learning and Equity Index Returns
@@ -295,7 +299,9 @@
 
 ## Others 
 
-- [recipes](https://github.com/cooklang/recipes) - Community created recipes
+- [self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
+- [selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
+- [recipes](https://github.com/cooklang/recipes) - Example recipes written in Cooklang
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
@@ -330,12 +336,24 @@
 
 ## Python 
 
+- [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
+- [Adafruit_CircuitPython_floppy](https://github.com/jepler/Adafruit_CircuitPython_floppy) - Access floppy drives from CircuitPython
+- [PyTermGUI](https://github.com/bczsalba/PyTermGUI) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
+- [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython
+- [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
+- [Offline-Reverse-Image-Search](https://github.com/OurGuru/Offline-Reverse-Image-Search) - 
+- [objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
+- [airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
+- [mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
+- [fluidpatcher](https://github.com/albedozero/fluidpatcher) - A performance-oriented patch interface for FluidSynth
+- [paperfoldmodels](https://github.com/felixfeliz/paperfoldmodels) - A Python script for unfolding triangular meshes in order to create papercraft models
 - [problog](https://github.com/ML-KULeuven/problog) - ProbLog is a Probabilistic Logic Programming Language for logic programs with probabilities.
 - [btrfs-snapshots-diff](https://github.com/sysnux/btrfs-snapshots-diff) - Decode Btrfs send stream
 - [peripage-a6-control](https://github.com/linglingltd/peripage-a6-control) - Python module to control the PeriPage A6-printer
 - [ppa6-python](https://github.com/bitrate16/ppa6-python) - Python module and documentation for direct printing on Peripage A6 / A6+ thermal printer via bluetooth
 - [peripage-A6-bluetooth](https://github.com/eliasweingaertner/peripage-A6-bluetooth) - Directly printing on a Peripage A6 thermal printer via Bluetooth
-- [textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [SeqBox](https://github.com/MarcoPon/SeqBox) - A single file container/archive that can be reconstructed even after total loss of file system structures
 - [par2deep](https://github.com/brenthuisman/par2deep) - Produce, verify and repair par2 files recursively.
 - [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
@@ -350,13 +368,13 @@
 - [pysd](https://github.com/JamesPHoughton/pysd) - System Dynamics Modeling in Python
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
-- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly MessagePack library for Python
+- [msgspec](https://github.com/jcrist/msgspec) - A fast and friendly JSON/MessagePack library, with optional schema validation
 - [SamplerBox](https://github.com/josephernest/SamplerBox) - SamplerBox is a sampler based on RaspberryPi.
 - [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A midi implementation example for micropython.
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [pyedifice](https://github.com/fding/pyedifice) - Declarative GUI library for Python
 - [EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
@@ -429,7 +447,7 @@
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [context_menu](https://github.com/saleguas/context_menu) - 💻 A Python library to create and deploy cross-platform native context menus. 💻
 - [pyte](https://github.com/selectel/pyte) - Simple VTXXX-compatible linux terminal emulator
-- [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
+- [edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [wharfee](https://github.com/j-bennet/wharfee) - A CLI with autocompletion and syntax highlighting for Docker commands.
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -470,6 +488,7 @@
 
 ## R 
 
+- [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - [SiP_dataset](https://github.com/Derek-Jones/SiP_dataset) - SiP effort estimation dataset
 
 ## Red 
@@ -521,11 +540,12 @@
 
 ## TypeScript 
 
-- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
-- [appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -533,7 +553,8 @@
 
 ## Vue 
 
-- [nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
