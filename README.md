@@ -336,6 +336,7 @@
 
 ## Python 
 
+- [Photini](https://github.com/jim-easterbrook/Photini) - An easy to use digital photograph metadata (Exif, IPTC, XMP) editing application.
 - [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
 - [Adafruit_CircuitPython_floppy](https://github.com/jepler/Adafruit_CircuitPython_floppy) - Access floppy drives from CircuitPython
 - [PyTermGUI](https://github.com/bczsalba/PyTermGUI) - A simple yet powerful TUI framework for your Python (3.7+) applications.
@@ -444,7 +445,7 @@
 - [symmetric](https://github.com/daleal/symmetric) - A powerful tool to enable super fast module-to-API transformations. Learn in minutes, implement in seconds. Batteries included.
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [blog_code](https://github.com/constancecrozier/blog_code) - 
-- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [context_menu](https://github.com/saleguas/context_menu) - 💻 A Python library to create and deploy cross-platform native context menus. 💻
 - [pyte](https://github.com/selectel/pyte) - Simple VTXXX-compatible linux terminal emulator
 - [edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
@@ -469,7 +470,6 @@
 - [scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [dhash](https://github.com/benhoyt/dhash) - Python library to calculate the difference hash (perceptual hash) for a given image, useful for detecting duplicates
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 Micropython based devices ⛺
 - [esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
@@ -502,6 +502,7 @@
 
 ## Rust 
 
+- [simlin](https://github.com/bpowers/simlin) - system dynamics modeling
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
