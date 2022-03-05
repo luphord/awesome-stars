@@ -54,6 +54,7 @@
 
 ## C 
 
+- [circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -79,6 +80,7 @@
 
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
 - [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework) - A GUI framework for C# console applications
+- [bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [radzen-blazor](https://github.com/radzenhq/radzen-blazor) - The home of the Radzen Blazor components.
 - [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) - Blazor workshop
@@ -90,6 +92,7 @@
 
 ## C++ 
 
+- [mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 - [Adafruit_Floppy](https://github.com/adafruit/Adafruit_Floppy) - 
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2
@@ -210,6 +213,7 @@
 
 ## JavaScript 
 
+- [spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 - [drakonhub](https://github.com/stepan-mitkin/drakonhub) - The source code for DrakonHub.com
 - [WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
@@ -303,7 +307,6 @@
 - [selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [recipes](https://github.com/cooklang/recipes) - Example recipes written in Cooklang
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
-- [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [dgc-overview](https://github.com/eu-digital-green-certificates/dgc-overview) - This repository provides an overview over the EU Digital Green Certificates (DGC) project.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [providers](https://github.com/nextcloud/providers) - community-maintained list of Nextcloud providers
@@ -336,10 +339,11 @@
 
 ## Python 
 
+- [monte-carlo-contracts](https://github.com/luphord/monte-carlo-contracts) - Composable financial contracts with Monte Carlo valuation
 - [Photini](https://github.com/jim-easterbrook/Photini) - An easy to use digital photograph metadata (Exif, IPTC, XMP) editing application.
 - [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
 - [Adafruit_CircuitPython_floppy](https://github.com/jepler/Adafruit_CircuitPython_floppy) - Access floppy drives from CircuitPython
-- [PyTermGUI](https://github.com/bczsalba/PyTermGUI) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython
 - [eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
@@ -470,7 +474,7 @@
 - [scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [dhash](https://github.com/benhoyt/dhash) - Python library to calculate the difference hash (perceptual hash) for a given image, useful for detecting duplicates
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 Micropython based devices ⛺
 - [esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
