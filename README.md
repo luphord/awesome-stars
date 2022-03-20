@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [melrose](https://github.com/emicklei/melrose) - interactive programming of melodies, producing MIDI
 - [termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [fyne-cross](https://github.com/fyne-io/fyne-cross) - Cross compiler tool for Fyne apps
 - [fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
@@ -213,6 +214,7 @@
 
 ## JavaScript 
 
+- [carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 - [drakonhub](https://github.com/stepan-mitkin/drakonhub) - The source code for DrakonHub.com
 - [WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -220,7 +222,7 @@
 - [fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
 - [wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [solfege.ai](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
 - [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
@@ -252,7 +254,6 @@
 - [gaussian-analytics](https://github.com/luphord/gaussian-analytics) - JavaScript library for analytical pricings of financial derivatives under (log)normal distribution assumptions
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
-- [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 
@@ -276,6 +277,7 @@
 
 ## Jupyter Notebook 
 
+- [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning ⚡️ fast forecasting with statistical and econometric models.
 - [minecraft-world-generation](https://github.com/BilHim/minecraft-world-generation) - Replicating Minecraft World Generation in Python
 - [pyndamics](https://github.com/bblais/pyndamics) - Python Numerical Dynamics Simulator
 - [Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) - 
@@ -288,6 +290,7 @@
 - [scribble](https://github.com/KonradUdoHannes/scribble) - Reposiory for the exchange of a variety of different and unrelated ideas
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [Machine_Learning_and_Equity_Index_Returns](https://github.com/paveles/Machine_Learning_and_Equity_Index_Returns) - Machine Learning and Equity Index Returns
+- [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [distribution-cheatsheet](https://github.com/jgoerner/distribution-cheatsheet) - 📈📄👀A lookup repo for a variety of discrete and continuous distributions (incl. Beta, Binomial, Cauchy, Chi-squared, Geometric, Hypergeometric, Normal & Poisson)
 - [data-science-stack-cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter) - 🐳📊🤓Cookiecutter template to launch an awesome dockerized Data Science toolstack (incl. Jupyster, Superset, Postgres, Minio, AirFlow & API Star)
 
@@ -339,6 +342,8 @@
 
 ## Python 
 
+- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [monte-carlo-contracts](https://github.com/luphord/monte-carlo-contracts) - Composable financial contracts with Monte Carlo valuation
 - [Photini](https://github.com/jim-easterbrook/Photini) - An easy to use digital photograph metadata (Exif, IPTC, XMP) editing application.
 - [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.
@@ -545,6 +550,7 @@
 
 ## TypeScript 
 
+- [grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [etesync-web](https://github.com/etesync/etesync-web) - An EteSync web client
@@ -558,6 +564,7 @@
 
 ## Vue 
 
+- [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
